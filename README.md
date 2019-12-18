@@ -8,7 +8,7 @@ important, and easy. What a great combination!
 
 ## What We’ll Cover
 
-- The `<img` tag
+- The `img` tag
 - Tag attributes
 
 ## Images in HTML
